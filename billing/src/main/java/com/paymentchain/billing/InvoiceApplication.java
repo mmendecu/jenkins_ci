@@ -32,6 +32,7 @@ public class InvoiceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(InvoiceApplication.class, args);
+        System.out.printl("Mensaje de prueba de automatizacion push en pipeline")
     }
 
      //Define all details for app info
